@@ -44,31 +44,31 @@ This project is the second task of my internship at **Prodigy InfoTech**. The ob
 
 ### 1. ✅ Survival Count
 
-![Chart 1](screenshots/chart1.png)
+![Chart 1](chart1.png)
 
 ---
 
 ### 2. ✅ Survival by Gender
 
-![Chart 2](screenshots/chart2.png)
+![Chart 2](chart2.png)
 
 ---
 
 ### 3. ✅ Survival by Passenger Class
 
-![Chart 3](screenshots/chart3.png)
+![Chart 3](chart3.png)
 
 ---
 
 ### 4. ✅ Age Distribution of Passengers
 
-![Chart 4](screenshots/chart4.png)
+![Chart 4](chart4.png)
 
 ---
 
 ### 5. ✅ Correlation Heatmap
 
-![Chart 5](screenshots/chart5.png)
+![Chart 5](chart5.png)
 
 ---
 
